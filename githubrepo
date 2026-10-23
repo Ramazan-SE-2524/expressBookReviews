@@ -1,0 +1,8 @@
+$ curl -s https://api.github.com/repos/Ramazan-SE-2524/expressBookReviews | grep -E '"full_name"|"fork": true|"parent"|"source"'
+  "full_name": "Ramazan-SE-2524/expressBookReviews",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+  "source": {
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+

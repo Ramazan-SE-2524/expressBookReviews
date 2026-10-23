@@ -1,0 +1,10 @@
+$ curl -s 'http://localhost:5000/title/Pride%20and%20Prejudice'
+{
+    "booksbytitle": [
+        {
+            "isbn": "8",
+            "author": "Jane Austen",
+            "reviews": {}
+        }
+    ]
+}
